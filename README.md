@@ -8,7 +8,7 @@
 	npm run dev
 	npm run build
 
-> 项目图(没有做UI，所以很辣眼睛zzz)
+> 项目图(没有做UI，所以很辣眼睛，不好意思zzz)
 
 ![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/1.jpg)![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/2.jpg)![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/3.jpg)![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/4.jpg)
 

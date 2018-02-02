@@ -12,6 +12,6 @@
 
 ![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/1.jpg)![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/2.jpg)![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/3.jpg)![images](https://raw.githubusercontent.com/WGinit/Assets/master/project/images/4.jpg)
 
-> 原文地址：
+> 项目参考：
 
 https://github.com/bluefox1688/vue-cli-multi-page
